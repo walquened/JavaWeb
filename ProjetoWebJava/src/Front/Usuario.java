@@ -1,5 +1,6 @@
 package Front;
-//Class Uruario Principal
+//Class Uruário Principal
+//Class Uruário Principal
 public class Usuario {
 private String Cod;
 private String Nome;
@@ -11,6 +12,7 @@ public void setCod(String cod) {
 }
 public String getNome() {
 	return Nome;
+	
 }
 public void setNome(String nome) {
 	Nome = nome;
